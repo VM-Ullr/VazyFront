@@ -1,3 +1,4 @@
+//Example
 <template>
   <b-container class="justify-content-center social-feed-element">
     <div class='content'>
