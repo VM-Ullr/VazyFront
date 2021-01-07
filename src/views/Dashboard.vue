@@ -1,3 +1,4 @@
+//Example
 <template lang="html">
   <section class="dashboard">
     <div class="row">
